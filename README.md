@@ -10,9 +10,11 @@ To install the library to your react-native project run the following commands:
 
 npm install :-
 
-1.react-native-d3-charts --save
+1.npm install
 
-2.react-native link react-native-svg
+2.react-native link react-native-svg (cd ios and pod install)
+
+3.npx react-native run-ios
 
 
 
