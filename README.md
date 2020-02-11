@@ -8,7 +8,7 @@ Installation
 
 To install the library to your react-native project run the following commands:
 
-npm install
+npm install :-
 
 1.react-native-d3-charts --save
 
@@ -16,9 +16,10 @@ npm install
 
 
 
-Usage & Options
+Usage & Options :-
 
 meterCovered = Dynamic Value to show on the meter
+
 sectionsProps = Colors on the meter
 
 
