@@ -5,10 +5,14 @@ Create ReactNative UI PAGE
 
 
 Installation
+
 To install the library to your react-native project run the following commands:
 
-npm install react-native-d3-charts --save
-react-native link react-native-svg
+npm install
+
+1.react-native-d3-charts --save
+
+2.react-native link react-native-svg
 
 
 
