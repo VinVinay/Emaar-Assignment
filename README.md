@@ -8,7 +8,6 @@ Installation
 
 To install the library to your react-native project run the following commands:
 
-npm install :-
 
 1.npm install
 
